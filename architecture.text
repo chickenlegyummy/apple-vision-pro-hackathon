@@ -1,0 +1,9 @@
+Server - ./public , server.js , db.js , video.js , auth.js , quizHandling.js , studentsHandling.js
+    public - ./users , database.db
+        users - ./{users_name}s 
+            {users_name}s - ./videos , ./quizzes 
+                videos - .mp4
+                quizzes - .json / .txt (pending)
+
+client - ./public ./src 
+    src - index.js , App.js , login.js , quizForm.js , quizEdit.js , students.js 
