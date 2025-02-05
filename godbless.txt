@@ -1,0 +1,22 @@
+install sqlite3 on ur machine, and set env var path, 
+make sure bin and tool files are there,
+ofcuz install nodejs if u dont hv,
+and thats it for now
+
+server start - node server.js (port listening in 5000)
+client start - npm start (port listening in 3000)
+
+to do:
+login page f/e
+quiz pages f/e 
+students page f/e
+login auth b/e 
+db setup d.b
+server init b/e 
+video handing b/e 
+students handling b/e
+quiz i/o b/e 
+
+fk myself
+
+
